@@ -24,11 +24,9 @@ All images were annotated using **VoTT** in **Pascal VOC format**, then converte
 
 To improve model performance and robustness, the following augmentations were applied:
 
-1. 🔄 **Flips**  
-2. 🔍 **Zoom**  
-3. 💡 **Brightness adjustment**  
-4. ✨ **Sharpness adjustment**  
-5. 🔁 **Rotation**
+1. 💡 **Brightness adjustment**  
+2. ✨ **Sharpness adjustment**  
+3. 🔁 **Rotation**
 
 ---
 
